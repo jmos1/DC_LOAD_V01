@@ -1,0 +1,24 @@
+ Comment, MPN, Manufacturer, Part Number, Supplier, Quantity
+Arduino Nano,X,X,X,https://www.amazon.com/ELEGOO-Arduino-ATmega328P-Without-Compatible/dp/B0713XK923/ref=sxts_sxwds-bia-wc-drs1_0?cv_ct_cx=arduino+nano&dchild=1&keywords=arduino+nano&pd_rd_i=B0713XK923&pd_rd_r=bcde435c-eb77-433d-bf52-a39e6f8a8bb5&pd_rd_w=HB9DF&pd_rd_wg=pE3Ur&pf_rd_p=055f7364-94db-4b93-80d6-346300592c66&pf_rd_r=J00A3620T0MK2VPWK3HD&psc=1&qid=1595346790&s=electronics&sr=1-1-f7123c3d-6c2e-4dbe-9d7a-6185fb77bc58,1
+ADS1115 Breakout Board,X,X,X,https://www.amazon.com/gp/product/B07TGB6KF8/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1,1
+"100uF, 25V",UVY1E101MDD1TD,Nichicon,493-12902-1-ND,DigiKey,1
+"47n, 50V",NF,NF,NF,NF,1
+Generic 2u2F THT Ceramic Capacitor,X,X,X,https://www.amazon.com/gp/product/B071ZFKJK7/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1,1
+16x2 I2C LCD,X,X,X,https://www.amazon.com/JANSANE-Arduino-Display-Interface-Raspberry/dp/B07D83DY17/ref=sr_1_2_sspa?dchild=1&keywords=I2c+LCD&qid=1595346855&s=electronics&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySzBRUEc0TVlWN0MxJmVuY3J5cHRlZElkPUEwMzY1MTUwOEpPUlM0NUwyMFFEJmVuY3J5cHRlZEFkSWQ9QTA1ODgyODFLNkpVVVM3MjE1QzEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl,1
+TO-220 Heatsink,X,X,X,https://www.amazon.com/Electronics-Salon-Heatsink-Small-Aluminum-Heat-Sink/dp/B074MVHPRL/ref=sr_1_8?dchild=1&keywords=to+220+heatsink&qid=1595348990&sr=8-8,1
+PJ-102AH,PJ-102AH,CUI Devices,CP-102AH-ND,DigiKey,1
+2x4_DIP_SOCKET,110-87-308-41-001101,Preci-Dip,1212-1003-ND,DigiKey,1
+2x7_DIP_SOCKET,AR 14 HZL-TT,Assmann WSW Components,AE10012-ND,DigiKey,1
+1x15_HDR_FEMALE,PPTC151LFBN-RC,Sullins Connector Solutions,S7013-ND,DigiKey,2
+1x10_HDR_FEMALE,PPTC101LFBN-RC,Sullins Connector Solutions,S7008-ND,DigiKey,1
+SR99S01VBNN04G7,SR99S01VBNN04G7,METZ CONNECT USA Inc.,1849-1159-1-ND,DigiKey,2
+2N2222A NPN Transistor,X,X,X,https://www.amazon.com/Hilitchi-675-Piece-2N2222-S9018-Transistors-Assortment/dp/B06Y49GB3F/ref=sr_1_4?dchild=1&keywords=transistor+assortment&qid=1595351510&sr=8-4,1
+IRFZ44NPBF,IRFZ44NPBF,Infineon Technologies,IRFZ44NPBF-ND,DigiKey,1
+Generic 1K2R 1/4W THT Resistor,X,X,X,https://www.amazon.com/SIQUK-Resistors-Resistor-Assortment-Experiments/dp/B07PTNN78Z/ref=sr_1_4?dchild=1&keywords=resistor&qid=1595349232&sr=8-4,1
+Generic 1KR 1/4W THT Resistor,X,X,X,https://www.amazon.com/SIQUK-Resistors-Resistor-Assortment-Experiments/dp/B07PTNN78Z/ref=sr_1_4?dchild=1&keywords=resistor&qid=1595349232&sr=8-4,3
+0R500,MP930-0.50-1%,Caddock Electronics Inc.,MP930-0.50F-ND,DigiKey,1
+Generic 10KR 1/4W THT Resistor,X,X,X,https://www.amazon.com/SIQUK-Resistors-Resistor-Assortment-Experiments/dp/B07PTNN78Z/ref=sr_1_4?dchild=1&keywords=resistor&qid=1595349232&sr=8-4,2
+10-Turn 10KR Potentiometer,3590S-2-103L,Bounrs Inc.,3590S-2-103L-ND,DigiKey,1
+1825910-6,1825910-6,TE Connectivity ALCOSWITCH Switches,450-1650-ND,DigiKey,1
+LM358P,LM358P,Texas Instruments,296-1395-5-ND,DigiKey,1
+SN74HC14N,SN74HC14N,Texas Instruments,296-1577-5-ND,DigiKey,1
